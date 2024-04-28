@@ -717,7 +717,7 @@
               <div class="w-full px-4">
                 <div class="max-w-3xl mx-auto text-center mb-16">
                     <h4 class="font-bold text-lg text-indigo-600 mb-2 uppercase">Contact</h4>
-                    <h2 class="font-bold text-slate-200 text-3xl mb-4 lg:text-4xl">Contact Us</h2>
+                    <h2 class="font-bold text-white text-3xl mb-4 lg:text-4xl">Contact Us</h2>
                     <p class="font-medium w-full text-medium text-slate-500 md:text-lg">Lorem ipsum dolor sit, amet
                         consectetur adipisicing elit. Atque accusamus odio tenetur dolores porro facilis ullam
                         corrupti
